@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Your Name ✦
+# Hello, I'm cosmos-summer✦
 
 ### Builder, learner, and collector of curious ideas.
 
@@ -10,10 +10,9 @@
 </p>
 
 <p>
-  <a href="#">Website</a> ·
+  <a href="https://cosmos-summer.github.io/">Website</a> ·
   <a href="#">Projects</a> ·
   <a href="#">Writing</a> ·
-  <a href="#">Say hello</a>
 </p>
 
 </div>
@@ -38,7 +37,7 @@
 
 <!-- Replace # with your real profile links. -->
 
-[GitHub](#) · [LinkedIn](#) · [Email](#) · [Personal website](#)
+[GitHub](https://github.com/cosmos-summer) · [LinkedIn](#) · [Email](#) · [Personal website](https://cosmos-summer.github.io/)
 
 ---
 

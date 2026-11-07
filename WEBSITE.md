@@ -21,11 +21,21 @@ Then open <http://localhost:8000>.
 
 ## Deploy to GitHub Pages
 
-The workflow in `.github/workflows/deploy-pages.yml` deploys the repository on
-every push to `main`.
+The site is intended to live at <https://cosmos-summer.github.io>. GitHub requires
+a user site at that root URL to use a repository named `cosmos-summer.github.io`.
 
-1. Open the repository settings on GitHub.
-2. Select **Pages**.
-3. Set **Source** to **GitHub Actions**.
+The profile introduction and website therefore need separate repositories:
+
+| Repository | Purpose |
+| --- | --- |
+| `cosmos-summer/cosmos-summer` | GitHub profile `README.md` |
+| `cosmos-summer/cosmos-summer.github.io` | Website source and Pages workflow |
+
+Move `index.html`, `styles.css`, `.nojekyll`, and `.github/workflows/deploy-pages.yml`
+into the `cosmos-summer.github.io` repository. The workflow deploys the root of
+that repository on every push to `main`.
+
+In the website repository, open **Settings → Pages** and set **Source** to
+**GitHub Actions**.
 
 You can also run the deployment manually from the repository's **Actions** tab.
