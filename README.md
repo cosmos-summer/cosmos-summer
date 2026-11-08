@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hello, I'm cosmos-summer✦
+# Hello✦
 
-### Builder, learner, and collector of curious ideas.
+### English major, researcher.
 
 <p>
-  I enjoy turning thoughtful ideas into useful, carefully made things.<br />
-  This is where I share what I am building, learning, and exploring.
+  I am a curious person and enjoy doing research in linguistics and writing in English.
 </p>
 
 <p>
@@ -21,17 +20,14 @@
 
 ### A little about me
 
-- 🔭 Currently exploring **something you are excited about**
-- 🌱 Learning **a skill, technology, or subject**
-- 🛠️ Building **your current project**
-- 💭 Happy to talk about **your favorite topics**
-- ✨ Away from the keyboard: **a hobby or small joy**
+- 🔭 Currently exploring **natural language processing**
+- 🌱 Learning **Python, embeddings and visualizations with matplotlib**
+
 
 ### Things I work with
 
-<!-- Replace these with the tools and technologies you actually use. -->
 
-`Your tools` · `Your languages` · `Your creative stack` · `Always learning`
+`NLP` · `Python` · `English` · `codex`
 
 ### Find me around the internet
 
